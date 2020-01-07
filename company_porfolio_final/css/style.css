@@ -1,0 +1,65 @@
+body {
+  overflow-x: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.icons a {
+  color: #FFF;
+}
+.content {
+  font-size: 13px;
+}
+.content i {
+  color: #A2D24F;
+}
+.content .btn {
+  color: #000;
+  font-size: 10px !important;
+}
+.navbar .nav-item {
+  font-size: 18px;
+  padding-right: 5px;
+}
+.navbar .nav-item a {
+  color: #000 !important;
+}
+.navbar .nav-item a:hover {
+  border-bottom: 2px solid #F8C94D;
+}
+.carousel-item {
+  height: 550px;
+}
+.carousel-image-1 {
+  background: url('../img/green-bg.png');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/green-bg.png');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/green-bg.png');
+  background-size: cover;
+}
+.carousel-caption h1{
+  padding-bottom: 50px;
+}
+.our-advan span{
+  color: #A2D24F;
+}
+.our-advan p {
+  color: lightgrey;
+}
+#about {
+  /* background: url(../img/grey-bg.png); */
+  background-color: lightgrey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.img-up {
+  margin-top: -60px;
+}
