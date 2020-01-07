@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.main-body {
+    width: 80%;
+    margin: 0 auto;
+}
+table, tr, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+.green{
+    background-color: green;
+}
+.light-green{
+    background-color: rgb(53, 255, 53);
+}
+.orange{
+    background-color: rgb(255, 108, 55);
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: pink;
+}
+.gray{
+    background-color: gray;
+}
+.light-blue{
+    background-color: lightskyblue
+}
+.blue{
+    background-color: blue;
+}
+.light-pink{
+    background-color: rgb(255, 146, 222);
+}
+.light-orange{
+    background-color: orange;
+}
+h1, p{
+    text-align: center;
+}
+.table{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
